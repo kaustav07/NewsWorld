@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="MaterialDrawerTheme.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="material_drawer_background">@color/black_effective</item>
+        <item name="material_drawer_primary_text">@color/white</item>
+        <item name="material_drawer_primary_icon">@color/colorPrimary</item>
+        <item name="material_drawer_secondary_text">@color/drawerSecondaryText</item>
+        <item name="material_drawer_divider">@color/drawerDivider</item>
+    </style>
+
+    <!-- Splash Screen theme. -->
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NewsWorld</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="emptynews">The are no news now</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Drawer Items -->
+    <string name="homeItem">Home</string>
+    <string name="exit">Exit</string>
+    <string name="categoryMainItem">Category</string>
+    <string name="categoryEntertainment">Entertainment</string>
+    <string name="categorySports">Sports</string>
+    <string name="categoryBusiness">Business</string>
+    <string name="categoryHealth">Health</string>
+    <string name="categoryTechnology">Technology</string>
+    <string name="categoryGeneral">General</string>
+    <string name="categoryScience">Science</string>
+    <string name="feedback">Feedback</string>
+    <string name="clearCache">Clear Cache</string>
+
+    <string name="footertext">powered by NewsAPI.org</string>
+
+    <string name="share">Share</string>
+
+    <!-- Share app -->
+    <string name="subject">Awesome News app</string>
+    <string name="shareChooserTitle">Share Via</string>
+    <string name="share_content">Check out the awesome brand new News app in play store now, \n "https://play.google.com/store/apps/details?id="</string>
+
+    <!-- Toolbar Menu -->
+    <string name="searchtitle">Search news</string>
+
+    <!-- Error Text -->
+    <string name="networkErrorText">Please Connect to Internet</string>
+    <string name="networkError">Some Network error occurred</string>
+
+    <!-- Feedback -->
+    <string name="feedbackTitle">Feedback</string>
+    <string name="feedbackPositiveText">Send</string>
+    <string name="feedbackNegativeText">Cancel</string>
+
+</resources>
